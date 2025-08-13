@@ -1,0 +1,1 @@
+# linkura-generic-strings-translation
