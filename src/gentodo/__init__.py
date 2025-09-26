@@ -138,18 +138,35 @@ def _update_output_dir_file(output_path: Path, new_texts: list):
                     existing_texts = existing_data
                 print(f"Found existing file with {len(existing_texts)} entries: {output_path}")
         
+        # Extract existing text strings for comparison
+        # Handle both formats: simple strings and dict objects with "raw" field
+        existing_text_strings = []
+        for item in existing_texts:
+            if isinstance(item, dict) and "raw" in item:
+                existing_text_strings.append(item["raw"])
+            elif isinstance(item, str):
+                existing_text_strings.append(item)
+        
         # Find new texts that don't exist in the current file
-        existing_set = set(existing_texts)
+        existing_set = set(existing_text_strings)
         new_unique_texts = [text for text in new_texts if text not in existing_set]
         
         if new_unique_texts:
-            # Append new texts to the end
-            updated_texts = existing_texts + new_unique_texts
+            # Create properly formatted objects for new texts
+            new_objects = []
+            for text in new_unique_texts:
+                new_objects.append({
+                    "raw": text,
+                    "translation": {}
+                })
+            
+            # Append new objects to the end
+            updated_texts = existing_texts + new_objects
             
             # Write updated content back to file
             output_path.parent.mkdir(parents=True, exist_ok=True)
             with open(output_path, 'w', encoding='utf-8') as f:
-                json.dump(updated_texts, f, ensure_ascii=False, indent=4)
+                json.dump(updated_texts, f, ensure_ascii=False, indent=2)
             
             print(f"Updated {output_path}: added {len(new_unique_texts)} new entries")
             print(f"Total entries in file: {len(updated_texts)}")
@@ -158,10 +175,17 @@ def _update_output_dir_file(output_path: Path, new_texts: list):
             
     except json.JSONDecodeError as e:
         print(f"Error reading existing file {output_path}: {e}")
-        # If existing file is corrupted, create new one
+        # If existing file is corrupted, create new one with proper format
+        new_objects = []
+        for text in new_texts:
+            new_objects.append({
+                "raw": text,
+                "translation": {}
+            })
+        
         output_path.parent.mkdir(parents=True, exist_ok=True)
         with open(output_path, 'w', encoding='utf-8') as f:
-            json.dump(new_texts, f, ensure_ascii=False, indent=4)
+            json.dump(new_objects, f, ensure_ascii=False, indent=2)
         print(f"Created new file due to read error: {output_path}")
     except Exception as e:
         print(f"Error updating output file {output_path}: {e}")

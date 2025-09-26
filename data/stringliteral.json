@@ -7617,7 +7617,7 @@
     "raw": "ムード",
     "translation": {
       "zh-CN": {
-        "text": "心情",
+        "text": "气氛",
         "author": ""
       }
     }
@@ -9156,7 +9156,7 @@
     "raw": "優先ムード",
     "translation": {
       "zh-CN": {
-        "text": "优先心情",
+        "text": "优先气氛",
         "author": ""
       }
     }
@@ -10560,7 +10560,7 @@
     "raw": "得意ムード",
     "translation": {
       "zh-CN": {
-        "text": "擅长心情",
+        "text": "擅长气氛",
         "author": ""
       }
     }
@@ -10569,7 +10569,7 @@
     "raw": "得意ムードが【{0}】のカードをセンターのメインスタイルに編成",
     "translation": {
       "zh-CN": {
-        "text": "将擅长心情为【{0}】的卡片编成到中心的主风格",
+        "text": "将擅长气氛为【{0}】的卡片编成到中心的主风格",
         "author": ""
       }
     }
@@ -13991,6 +13991,132 @@
       "zh-CN": {
         "text": "ﾜ",
         "author": ""
+      }
+    }
+  },
+  {
+    "raw": "<size=-10>累計</size> {0} <size=-10>輪</size>",
+    "translation": {
+      "zh-CN": {
+        "text": "<size=-10>累计</size> {0} <size=-10>轮</size>",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "<size=20>セレクト\n可能回数</size>",
+    "translation": {
+      "zh-CN": {
+        "text": "<size=20>选择\n可能次数</size>",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "{0} 輪",
+    "translation": {
+      "zh-CN": {
+        "text": "{0} 轮",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "{0}<size=-14> 輪</size>",
+    "translation": {
+      "zh-CN": {
+        "text": "{0}<size=-14> 轮</size>",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "{0}<size=-30> 輪</size>",
+    "translation": {
+      "zh-CN": {
+        "text": "{0}<size=-30> 轮</size>",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "　(-位)",
+    "translation": {
+      "zh-CN": {
+        "text": "　(-位)",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "　({0:N0}位)",
+    "translation": {
+      "zh-CN": {
+        "text": "　({0:N0}位)",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "　(セーフティー)",
+    "translation": {
+      "zh-CN": {
+        "text": "　(安全)",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "　(上位{0:0.00}%)",
+    "translation": {
+      "zh-CN": {
+        "text": "　(上位{0:0.00}%)",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "【スクステからの通知】セレクト可能回数の返却",
+    "translation": {
+      "zh-CN": {
+        "text": "【SukuSute的通知】选择可能次数的返还",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "セレクトした花が一定量を超えたため、\n プライズを獲得しました！",
+    "translation": {
+      "zh-CN": {
+        "text": "由于选择的花朵超过了一定数量，\n 获得了奖励！",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "セレクト可能回数",
+    "translation": {
+      "zh-CN": {
+        "text": "选择可能次数",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "セレクト可能回数の返却",
+    "translation": {
+      "zh-CN": {
+        "text": "选择可能次数的返还",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "センターカードが設定されていません。",
+    "translation": {
+      "zh-CN": {
+        "text": "中心卡片未设定。",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   }

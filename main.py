@@ -3,8 +3,11 @@ import sys
 from pathlib import Path
 from src.generate import analyze
 from src import gentodo, generate
+from src.model.localization import I18nLanguage
+from src.translate import translate_file, claude
+import os
 
-i18n = ["zh-CN", "en"]
+i18n = [lang.value for lang in I18nLanguage]
 OUTPUT_DIR = Path("data")
 RAW_DIR = Path("raw")
 README_FILE = Path("README.md")
@@ -20,7 +23,10 @@ def command_translate(args):
 
     And user also can translated by handmade
     """
-    print("TODO")
+    if args.file:
+        client = claude.setup_client(os.environ["ANTHROPIC_API_KEY"], os.environ["ANTHROPIC_BASE_URL"])
+        limit = args.limit if hasattr(args, 'limit') and args.limit else None
+        translate_file(client, Path(args.file), I18nLanguage.ZH_CN, limit=limit)
     return 0
 
 def command_generate(args):
@@ -88,8 +94,13 @@ def main():
         help='Translation tool, providing basic large model API translation interface',
     )
     parser_translate.add_argument(
-        '--about', '-a',
-        help='Example for sub args'
+        '--file', '-f',
+        help='Path to the input file containing text to translate'
+    )
+    parser_translate.add_argument(
+        '--limit',
+        type=int,
+        help='Maximum number of items to translate (default: translate all untranslated items)'
     )
     parser_translate.set_defaults(func=command_translate)
     
