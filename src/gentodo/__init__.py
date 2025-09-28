@@ -98,12 +98,6 @@ def gen(input_file: Path, output_dir: Path):
         print(f"Found {len(japanese_texts)} total Japanese texts")
         print(f"Found {len(unique_texts)} unique Japanese texts")
         
-        # Write to RAW_DIR
-        raw_output_path = output_dir / f"{input_file.stem}_raw.json"
-        with open(raw_output_path, 'w', encoding='utf-8') as f:
-            json.dump(unique_texts, f, ensure_ascii=False, indent=4)
-        print(f"Raw output written to: {raw_output_path}")
-        
         # Check and update OUTPUT_DIR (data directory)
         from pathlib import Path
         data_dir = Path("data")

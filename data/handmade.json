@@ -1,0 +1,776 @@
+[
+  {
+    "raw": "センタースキル",
+    "translation": {
+      "zh-CN": {
+        "text": "C位技能",
+        "author": "ChocoLZS"
+      }
+    }
+  },
+  {
+    "raw": "イベント",
+    "translation": {
+      "zh-CN": {
+        "text": "活动",
+        "author": "ChocoLZS"
+      }
+    }
+  },
+  {
+    "raw": "センター特性",
+    "translation": {
+      "zh-CN": {
+        "text": "C位特性",
+        "author": "ChocoLZS"
+      }
+    }
+  },
+  {
+    "raw": "Link-Like O.S.のホーム画面に戻ります。\nよろしいでしょうか？",
+    "translation": {
+      "zh-CN": {
+        "text": "返回Link-Like O.S.的主屏幕。\n可以吗？",
+        "author": "ChocoLZS"
+      }
+    }
+  },
+  {
+    "raw": "スクコネ",
+    "translation": {
+      "zh-CN": {
+        "text": "学结",
+        "author": "ChocoLZS"
+      }
+    }
+  },
+  {
+    "raw": "スクステ",
+    "translation": {
+      "zh-CN": {
+        "text": "学院舞台",
+        "author": "ChocoLZS"
+      }
+    }
+  },
+  {
+    "raw": "{0}ご視聴ありがとうございました。",
+    "translation": {
+      "zh-CN": {
+        "text": "感谢您观看{0}。",
+        "author": "ChocoLZS"
+      }
+    }
+  },
+  {
+    "raw": "デ\nィリ",
+    "translation": {
+      "zh-CN": {
+        "text": "日常",
+        "author": "ChocoLZS"
+      }
+    }
+  },
+  {
+    "raw": "ウィークリー",
+    "translation": {
+      "zh-CN": {
+        "text": "每周",
+        "author": "ChocoLZS"
+      }
+    }
+  },
+  {
+    "raw": "メイン",
+    "translation": {
+      "zh-CN": {
+        "text": "主要",
+        "author": "ChocoLZS"
+      }
+    }
+  },
+  {
+    "raw": "共通",
+    "translation": {
+      "zh-CN": {
+        "text": "通用",
+        "author": "ChocoLZS"
+      }
+    }
+  },
+  {
+    "raw": "スクールアイドルステージ",
+    "translation": {
+      "zh-CN": {
+        "text": "学园偶像舞台",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "スクールアイドルショウ",
+    "translation": {
+      "zh-CN": {
+        "text": "学园偶像秀",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "スクールアイドルステージ ＞ クエストライブ、\nスクールアイドルショウ ＞ 楽曲ミッションのどちらかで\n★を15個集めるたびにSIsCa × 1000GET！！",
+    "translation": {
+      "zh-CN": {
+        "text": "学园偶像舞台 ＞ Quest Live、\n学园偶像秀 ＞ 乐曲任务的任意一种\n每收集15个★就能获得 SIsCa × 1000！！",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "プライズ獲得",
+    "translation": {
+      "zh-CN": {
+        "text": "获得奖品",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "上限はクエストライブの追加に合わせて引き上げられます。",
+    "translation": {
+      "zh-CN": {
+        "text": "上限会随着Quest Live的追加而提高。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "※SIsCaを貰える",
+    "translation": {
+      "zh-CN": {
+        "text": "※可以获得SIsCa",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "スクコネ\n活動記録",
+    "translation": {
+      "zh-CN": {
+        "text": "学结\n活动记录",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "カスタム",
+    "translation": {
+      "zh-CN": {
+        "text": "自定义",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "挑戦",
+    "translation": {
+      "zh-CN": {
+        "text": "挑战",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "受取",
+    "translation": {
+      "zh-CN": {
+        "text": "领取",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "初心者ミッション",
+    "translation": {
+      "zh-CN": {
+        "text": "新手任务",
+        "author": "ChocoLZS"
+      }
+    }
+  },
+  {
+    "raw": "ホーム設定",
+    "translation": {
+      "zh-CN": {
+        "text": "主屏设置",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "壁紙カスタム",
+    "translation": {
+      "zh-CN": {
+        "text": "壁纸自定义",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "シンプルカスタム",
+    "translation": {
+      "zh-CN": {
+        "text": "简单自定义",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "詳細カスタム",
+    "translation": {
+      "zh-CN": {
+        "text": "详细自定义",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "時計カスタム",
+    "translation": {
+      "zh-CN": {
+        "text": "时钟自定义",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "時計を選択",
+    "translation": {
+      "zh-CN": {
+        "text": "选择时钟",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ホーム画面にカスタムボタンを表示",
+    "translation": {
+      "zh-CN": {
+        "text": "在主屏显示自定义按钮",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ホーム画面に時計を表示",
+    "translation": {
+      "zh-CN": {
+        "text": "在主屏显示时钟",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ホーム画面に初心者ミッションボタンを表示",
+    "translation": {
+      "zh-CN": {
+        "text": "在主屏显示新手任务按钮",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "配置ピース",
+    "translation": {
+      "zh-CN": {
+        "text": "配置棋子",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "データ",
+    "translation": {
+      "zh-CN": {
+        "text": "成员等级",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "その他",
+    "translation": {
+      "zh-CN": {
+        "text": "其他",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "システム",
+    "translation": {
+      "zh-CN": {
+        "text": "系统",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "グラフィック設定",
+    "translation": {
+      "zh-CN": {
+        "text": "图像设置",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ライブ映像の解像度を設定できます。\n端末スペックやご視聴環境に合わせて設定ください。",
+    "translation": {
+      "zh-CN": {
+        "text": "可以设置Live影像的分辨率。\n请根据设备规格和观看环境进行设置。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "低画質",
+    "translation": {
+      "zh-CN": {
+        "text": "低画质",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "通常画質",
+    "translation": {
+      "zh-CN": {
+        "text": "普通画质",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "高画質",
+    "translation": {
+      "zh-CN": {
+        "text": "高画质",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "サウンド設定",
+    "translation": {
+      "zh-CN": {
+        "text": "音效设置",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "アーカイブを再生します。\nよろしいですか？",
+    "translation": {
+      "zh-CN": {
+        "text": "播放存档。\n可以吗？",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "日付順",
+    "translation": {
+      "zh-CN": {
+        "text": "日期顺序",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "With Starの数",
+    "translation": {
+      "zh-CN": {
+        "text": "With Star数量",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "出演",
+    "translation": {
+      "zh-CN": {
+        "text": "出演",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "未出演",
+    "translation": {
+      "zh-CN": {
+        "text": "未出演",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "未指定",
+    "translation": {
+      "zh-CN": {
+        "text": "未指定",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "With×MEETS AFTER視聴権",
+    "translation": {
+      "zh-CN": {
+        "text": "With×MEETS AFTER观看权",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "LIVE種類",
+    "translation": {
+      "zh-CN": {
+        "text": "LIVE种类",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "存在",
+    "translation": {
+      "zh-CN": {
+        "text": "存在",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "无",
+    "translation": {
+      "zh-CN": {
+        "text": "无",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ヒント",
+    "translation": {
+      "zh-CN": {
+        "text": "提示",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ギフトを所持していません。\nギフトはガチャ等から獲得できます。",
+    "translation": {
+      "zh-CN": {
+        "text": "未持有礼品。\n可以从扭蛋等途径获得礼品。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "With Star獲得に必要な\nギフトポイントが最大値を超過しています。\nこのまま送信しますか？",
+    "translation": {
+      "zh-CN": {
+        "text": "获得With Star所需的\n礼品点数超过了最大值。\n是否继续发送？",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このプライズは受取済みです。",
+    "translation": {
+      "zh-CN": {
+        "text": "该奖励已领取。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "プライズ受取",
+    "translation": {
+      "zh-CN": {
+        "text": "奖励获取",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ミッションをクリアしたため、 \nプライズを獲得しました！",
+    "translation": {
+      "zh-CN": {
+        "text": "由于完成了任务，\n获得了奖励！",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "クエスト詳細",
+    "translation": {
+      "zh-CN": {
+        "text": "任务详情",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ハート自動獲得設定",
+    "translation": {
+      "zh-CN": {
+        "text": "心心自动获取设定",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "現在の設定値",
+    "translation": {
+      "zh-CN": {
+        "text": "当前设定值",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ハートの自動獲得を発動する数を設定できます。 \nライブ中、AUTOのHEARTを有効化している場合、 \n画面上のハートの数が設定した数を超えた時、\nハートを自動で獲得します。",
+    "translation": {
+      "zh-CN": {
+        "text": "可以设定发动心心自动获取的数量。\n演出中，如果启用了AUTO的HEART功能，\n当画面上的心心数量超过设定数量时，\n将自动获取心心。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "リリックビデオ設定",
+    "translation": {
+      "zh-CN": {
+        "text": "歌词视频设定",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ライブ時にリリックビデオを再生するか設定できます。 \nライブ中はリリックビデオの再生設定を変更できません。",
+    "translation": {
+      "zh-CN": {
+        "text": "可以设定演出时是否播放歌词视频。\n演出中无法更改歌词视频的播放设定。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "图像设置",
+    "translation": {
+      "zh-CN": {
+        "text": "图像设置",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "通常：ライブ中、すべての演出が表示されます。\n軽量：ライブ中に表示する演出を一部制限して表示します。",
+    "translation": {
+      "zh-CN": {
+        "text": "通常：演出中将显示所有演出效果。\n轻量：演出中将限制显示部分演出效果。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "グラフィック",
+    "translation": {
+      "zh-CN": {
+        "text": "画面效果",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "軽量",
+    "translation": {
+      "zh-CN": {
+        "text": "轻量",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "習得済み楽曲マスタリーボーナス",
+    "translation": {
+      "zh-CN": {
+        "text": "已习得乐曲精通奖励",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "習得済みボーナススキルはありません。",
+    "translation": {
+      "zh-CN": {
+        "text": "没有已习得的奖励技能。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ボーナス",
+    "translation": {
+      "zh-CN": {
+        "text": "奖励",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "マスタリーLv",
+    "translation": {
+      "zh-CN": {
+        "text": "精通Lv",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "習得状況",
+    "translation": {
+      "zh-CN": {
+        "text": "习得状况",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "センターメンバー",
+    "translation": {
+      "zh-CN": {
+        "text": "C位成员",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "リリックビデオ",
+    "translation": {
+      "zh-CN": {
+        "text": "歌词视频",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "楽曲マスタリーLv.が特定のLv.に到達すると、\n楽曲のセンタースクールアイドルが \nボーナススキルを習得できます。\n\n\nすでに習得済みのボーナススキルを習得した場合は、\nスキルのLv.が1上がります。",
+    "translation": {
+      "zh-CN": {
+        "text": "乐曲精通Lv.达到特定Lv.时，\n乐曲的C位学园偶像可以\n习得奖励技能。\n\n\n如果习得了已经习得过的奖励技能，\n技能的Lv.会提升1级。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "習得マスタリーLv.",
+    "translation": {
+      "zh-CN": {
+        "text": "掌握熟练度Lv.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "シリーズ選択",
+    "translation": {
+      "zh-CN": {
+        "text": "系列选择",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ユメノカケラを300個集めよう",
+    "translation": {
+      "zh-CN": {
+        "text": "收集300个梦之碎片",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ユメノハネを300個集めよう",
+    "translation": {
+      "zh-CN": {
+        "text": "收集300个梦之羽毛",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ユメノコトワリを300個集めよう",
+    "translation": {
+      "zh-CN": {
+        "text": "收集300个梦之法理",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "Gradeをシルバー1まで上げよう",
+    "translation": {
+      "zh-CN": {
+        "text": "将Grade提升至白银1",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "{0}のファンレベルを100まで上げよう",
+    "translation": {
+      "zh-CN": {
+        "text": "将{0}的粉丝等级提升至100",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ライブグランプリ成績",
+    "translation": {
+      "zh-CN": {
+        "text": "演出大奖赛成绩",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "プライズ",
+    "translation": {
+      "zh-CN": {
+        "text": "奖品",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ランキング",
+    "translation": {
+      "zh-CN": {
+        "text": "排行榜",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "選択へ",
+    "translation": {
+      "zh-CN": {
+        "text": "前往选择",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  }
+]

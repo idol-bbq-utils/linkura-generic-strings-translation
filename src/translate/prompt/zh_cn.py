@@ -15,7 +15,7 @@ glossary = {
     "蓮ノ空": "莲之空",
     "スクールアイドル": "学园偶像",
     "ラブライブ！": "Love Live!",
-    "スリーズブーケ": "Ceriese Bouquet",
+    "スリーズブーケ": "Cerise Bouquet",
     "DOLLCHESTRA": "DOLLCHESTRA",
     "みらくらぱーく！": "Mira-Cra Park!",
     # game
