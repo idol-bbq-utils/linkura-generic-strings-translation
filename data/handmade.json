@@ -63,7 +63,7 @@
     }
   },
   {
-    "raw": "デ\nィリ",
+    "raw": "デイリー",
     "translation": {
       "zh-CN": {
         "text": "日常",
@@ -363,7 +363,7 @@
     "raw": "サウンド設定",
     "translation": {
       "zh-CN": {
-        "text": "音效设置",
+        "text": "音量设置",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -769,6 +769,609 @@
     "translation": {
       "zh-CN": {
         "text": "前往选择",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "履歴はありません。",
+    "translation": {
+      "zh-CN": {
+        "text": "没有历史记录。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "カード名",
+    "translation": {
+      "zh-CN": {
+        "text": "卡牌名称",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "カード詳細",
+    "translation": {
+      "zh-CN": {
+        "text": "卡牌详情",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "全部",
+    "translation": {
+      "zh-CN": {
+        "text": "全部",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "入手済み",
+    "translation": {
+      "zh-CN": {
+        "text": "已获得",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "未入手",
+    "translation": {
+      "zh-CN": {
+        "text": "未获得",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "まとめてスキップ",
+    "translation": {
+      "zh-CN": {
+        "text": "批量跳过",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "完了",
+    "translation": {
+      "zh-CN": {
+        "text": "完成",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ステージ情報",
+    "translation": {
+      "zh-CN": {
+        "text": "舞台信息",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "Fes×LIVEチケットは集計期間終了後、\nFes×LIVEロビーにアクセスしたユーザーに直接配布されます。",
+    "translation": {
+      "zh-CN": {
+        "text": "Fes×LIVE票券将在统计期间结束后，\n直接发放给访问Fes×LIVE大厅的用户。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "SIDE編成",
+    "translation": {
+      "zh-CN": {
+        "text": "SIDE编成",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "このカードは以下のメンバーのSIDE STYLEとして \n編成することができます。",
+    "translation": {
+      "zh-CN": {
+        "text": "此卡片可以作为以下成员的SIDE STYLE\n进行编成。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "選択",
+    "translation": {
+      "zh-CN": {
+        "text": "选择",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "所持数 ",
+    "translation": {
+      "zh-CN": {
+        "text": "持有数量 ",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "使用したいセレクトチケットを選択してください。",
+    "translation": {
+      "zh-CN": {
+        "text": "请选择要使用的选择票券。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "{0} メンバーシップ特典交換",
+    "translation": {
+      "zh-CN": {
+        "text": "{0} 会员特典交换",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "通常アイテム交換",
+    "translation": {
+      "zh-CN": {
+        "text": "普通道具交换",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "育成アイテム交換",
+    "translation": {
+      "zh-CN": {
+        "text": "培养道具交换",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ショップ",
+    "translation": {
+      "zh-CN": {
+        "text": "商店",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "該当する交換対象はありません。",
+    "translation": {
+      "zh-CN": {
+        "text": "没有符合条件的交换对象。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "解放Pt.変換確認",
+    "translation": {
+      "zh-CN": {
+        "text": "解放Pt.转换确认",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "解放可能な分を超えて所持している\n解放Pt.を、すべてレアリティに応じた\nティアに変換しますか？",
+    "translation": {
+      "zh-CN": {
+        "text": "是否将持有的超出解放上限的\n所有解放Pt.转换为对应稀有度的\n提尔？",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "所持している余り解放Pt.",
+    "translation": {
+      "zh-CN": {
+        "text": "持有的多余解放Pt.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "変換",
+    "translation": {
+      "zh-CN": {
+        "text": "转换",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "並び替えるメンバーカードを\n1枚ずつ選択してください",
+    "translation": {
+      "zh-CN": {
+        "text": "请逐一选择要排序的\n成员卡片",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "対象のメンバーが見つかりません",
+    "translation": {
+      "zh-CN": {
+        "text": "未找到对应的成员",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "おすすめ編成",
+    "translation": {
+      "zh-CN": {
+        "text": "推荐编成",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "はずす",
+    "translation": {
+      "zh-CN": {
+        "text": "移除",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "総合ミッション",
+    "translation": {
+      "zh-CN": {
+        "text": "综合任务",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "総合",
+    "translation": {
+      "zh-CN": {
+        "text": "综合",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "クラス説明",
+    "translation": {
+      "zh-CN": {
+        "text": "职业说明",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "プライズ詳細",
+    "translation": {
+      "zh-CN": {
+        "text": "奖品详情",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "センター効果なし",
+    "translation": {
+      "zh-CN": {
+        "text": "无C位效果",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "合計アピール値",
+    "translation": {
+      "zh-CN": {
+        "text": "总计呼吁值",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "一時停止",
+    "translation": {
+      "zh-CN": {
+        "text": "暂停",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "選曲画面へ",
+    "translation": {
+      "zh-CN": {
+        "text": "前往选曲界面",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "最初から",
+    "translation": {
+      "zh-CN": {
+        "text": "从头开始",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "再開",
+    "translation": {
+      "zh-CN": {
+        "text": "继续",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "チャレンジ",
+    "translation": {
+      "zh-CN": {
+        "text": "挑战",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "設定",
+    "translation": {
+      "zh-CN": {
+        "text": "设置",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "カード確認",
+    "translation": {
+      "zh-CN": {
+        "text": "卡牌确认",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "残り回数",
+    "translation": {
+      "zh-CN": {
+        "text": "剩余次数",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "リタイア",
+    "translation": {
+      "zh-CN": {
+        "text": "退出",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ライブに戻る",
+    "translation": {
+      "zh-CN": {
+        "text": "返回Live",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "タップするとカードの詳細を確認できます",
+    "translation": {
+      "zh-CN": {
+        "text": "点击可确认卡牌详情",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "プレイレポート",
+    "translation": {
+      "zh-CN": {
+        "text": "游玩统计",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "取得アイテム",
+    "translation": {
+      "zh-CN": {
+        "text": "获得道具",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "課題曲は\nありません",
+    "translation": {
+      "zh-CN": {
+        "text": "没有课题曲",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "未習得の楽曲を非表示にする",
+    "translation": {
+      "zh-CN": {
+        "text": "隐藏未掌握的乐曲",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "ムービーを端末にダウンロードしますか？",
+    "translation": {
+      "zh-CN": {
+        "text": "是否将视频下载到设备？",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "キャッシュ削除を実行するとダウンロード済みの\nムービーは端末から削除されます。",
+    "translation": {
+      "zh-CN": {
+        "text": "执行缓存删除后，已下载的\n视频将从设备中删除。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "あきらめる",
+    "translation": {
+      "zh-CN": {
+        "text": "放弃",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "挑戦をあきらめますか？",
+    "translation": {
+      "zh-CN": {
+        "text": "是否放弃挑战？",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "※達成済みのミッションがある場合、報酬を獲得できます。\n※フッタから一時的に中断することもできます。",
+    "translation": {
+      "zh-CN": {
+        "text": "※如果有已达成的任务，可以获得奖励。\n※也可以从页脚暂时中断。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "消費行動Pt.設定",
+    "translation": {
+      "zh-CN": {
+        "text": "消费行动Pt.设置",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "編成ボーナス",
+    "translation": {
+      "zh-CN": {
+        "text": "编成奖励",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "※得られるライブPt.は消費行動Pt.に比例します。",
+    "translation": {
+      "zh-CN": {
+        "text": "※获得的Live Pt.与消费行动Pt.成正比。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "獲得したライブPt.",
+    "translation": {
+      "zh-CN": {
+        "text": "获得的Live Pt.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メインライブのライブPt.",
+    "translation": {
+      "zh-CN": {
+        "text": "主要Live的Live Pt.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "残り行動Pt.",
+    "translation": {
+      "zh-CN": {
+        "text": "剩余行动Pt.",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "クエスト結果",
+    "translation": {
+      "zh-CN": {
+        "text": "任务结果",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "特定楽曲のみ\n選曲可能",
+    "translation": {
+      "zh-CN": {
+        "text": "仅可选择\n特定乐曲",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "選択可能楽曲一覧",
+    "translation": {
+      "zh-CN": {
+        "text": "可选择乐曲一览",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンバーログ",
+    "translation": {
+      "zh-CN": {
+        "text": "成员日志",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "コメントを入力",
+    "translation": {
+      "zh-CN": {
+        "text": "输入评论",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "※ノベルタイプストーリーでは横画面固定です",
+    "translation": {
+      "zh-CN": {
+        "text": "※小说类型故事为横屏固定显示",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "近日オープン\n予定",
+    "translation": {
+      "zh-CN": {
+        "text": "近期开放\n预定",
         "author": "claude-sonnet-4-20250514"
       }
     }

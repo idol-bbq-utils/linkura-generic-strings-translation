@@ -3366,10 +3366,10 @@
     }
   },
   {
-    "raw": "を編成するとセンター効果を発揮します",
+    "raw": "{0}を編成するとセンター効果を発揮します",
     "translation": {
       "zh-CN": {
-        "text": "编成后将发挥C位效果",
+        "text": "{0}编成后将发挥C位效果",
         "author": ""
       }
     }
@@ -6303,7 +6303,7 @@
     "raw": "ニュートラル",
     "translation": {
       "zh-CN": {
-        "text": "中性",
+        "text": "Neutral",
         "author": ""
       }
     }
@@ -6438,7 +6438,7 @@
     "raw": "パフォーマー",
     "translation": {
       "zh-CN": {
-        "text": "表演者",
+        "text": "Performer",
         "author": ""
       }
     }
@@ -10080,10 +10080,10 @@
     }
   },
   {
-    "raw": "回目",
+    "raw": "{0}回目",
     "translation": {
       "zh-CN": {
-        "text": "第n次",
+        "text": "第{0}次",
         "author": ""
       }
     }
@@ -10713,7 +10713,7 @@
     "raw": "手札確認",
     "translation": {
       "zh-CN": {
-        "text": "手札确认",
+        "text": "手牌确认",
         "author": ""
       }
     }
