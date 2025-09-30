@@ -5364,10 +5364,10 @@
     }
   },
   {
-    "raw": "スキル消費AP",
+    "raw": "スキル消費AP{0}",
     "translation": {
       "zh-CN": {
-        "text": "技能消费AP",
+        "text": "技能消费AP{0}",
         "author": ""
       }
     }
@@ -14116,6 +14116,42 @@
     "translation": {
       "zh-CN": {
         "text": "C位卡牌未设定。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "を編成するとセンター効果を発揮します",
+    "translation": {
+      "zh-CN": {
+        "text": "编成后会发挥中心效果",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "スキル消費AP",
+    "translation": {
+      "zh-CN": {
+        "text": "技能消费AP",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "メンバーシップの契約更新に失敗しています。\n支払い状況を確認してください。",
+    "translation": {
+      "zh-CN": {
+        "text": "会员订阅续约失败。\n请确认支付状况。",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "回目",
+    "translation": {
+      "zh-CN": {
+        "text": "回目",
         "author": "claude-sonnet-4-20250514"
       }
     }

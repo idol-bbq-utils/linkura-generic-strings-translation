@@ -1375,5 +1375,23 @@
         "author": "claude-sonnet-4-20250514"
       }
     }
+  },
+  {
+    "raw": "センタースキルLv上限",
+    "translation": {
+      "zh-CN": {
+        "text": "C位技能等级上限",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+  {
+    "raw": "スキルAP",
+    "translation": {
+      "zh-CN": {
+        "text": "技能AP",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
   }
 ]
