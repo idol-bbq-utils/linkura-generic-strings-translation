@@ -2013,5 +2013,18 @@
         "author": "claude-sonnet-4-20250514"
       }
     }
+  },
+  {
+    "raw": "育成",
+    "translation": {
+      "zh-CN": {
+        "text": "培养",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Training",
+        "author": "claude-sonnet-4-20250514"
+      }
+    }
   }
 ]
