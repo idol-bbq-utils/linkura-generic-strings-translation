@@ -8,6 +8,7 @@ from src.translate import translate_file, claude
 import os
 
 i18n = [lang.value for lang in I18nLanguage]
+i18n_map = {lang.value: lang for lang in I18nLanguage}
 OUTPUT_DIR = Path("data")
 RAW_DIR = Path("raw")
 README_FILE = Path("README.md")
@@ -26,7 +27,7 @@ def command_translate(args):
     if args.file:
         client = claude.setup_client(os.environ["ANTHROPIC_API_KEY"], os.environ["ANTHROPIC_BASE_URL"])
         limit = args.limit if hasattr(args, 'limit') and args.limit else None
-        translate_file(client, Path(args.file), I18nLanguage.ZH_CN, limit=limit)
+        translate_file(client, Path(args.file), i18n_map.get(args.locale, I18nLanguage.ZH_CN), limit=limit)
     return 0
 
 def command_generate(args):

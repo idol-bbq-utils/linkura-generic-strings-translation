@@ -5,6 +5,10 @@
       "zh-CN": {
         "text": "C位技能",
         "author": "ChocoLZS"
+      },
+      "en": {
+        "text": "Center Skill",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -14,6 +18,10 @@
       "zh-CN": {
         "text": "活动",
         "author": "ChocoLZS"
+      },
+      "en": {
+        "text": "Event",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -23,6 +31,10 @@
       "zh-CN": {
         "text": "C位特性",
         "author": "ChocoLZS"
+      },
+      "en": {
+        "text": "Center Trait",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -32,6 +44,10 @@
       "zh-CN": {
         "text": "返回Link-Like O.S.的主屏幕。\n可以吗？",
         "author": "ChocoLZS"
+      },
+      "en": {
+        "text": "Return to Link-Like O.S. home screen.\nIs this okay?",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -41,6 +57,10 @@
       "zh-CN": {
         "text": "学结",
         "author": "ChocoLZS"
+      },
+      "en": {
+        "text": "School Idol Connect",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -50,6 +70,10 @@
       "zh-CN": {
         "text": "学院舞台",
         "author": "ChocoLZS"
+      },
+      "en": {
+        "text": "School Stage",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -59,6 +83,10 @@
       "zh-CN": {
         "text": "感谢您观看{0}。",
         "author": "ChocoLZS"
+      },
+      "en": {
+        "text": "Thank you for watching {0}.",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -68,6 +96,10 @@
       "zh-CN": {
         "text": "日常",
         "author": "ChocoLZS"
+      },
+      "en": {
+        "text": "Daily",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -77,6 +109,10 @@
       "zh-CN": {
         "text": "每周",
         "author": "ChocoLZS"
+      },
+      "en": {
+        "text": "Weekly",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -86,6 +122,10 @@
       "zh-CN": {
         "text": "主要",
         "author": "ChocoLZS"
+      },
+      "en": {
+        "text": "Main",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -95,6 +135,10 @@
       "zh-CN": {
         "text": "通用",
         "author": "ChocoLZS"
+      },
+      "en": {
+        "text": "Common",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -103,6 +147,10 @@
     "translation": {
       "zh-CN": {
         "text": "学园偶像舞台",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "School Idol Stage",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -113,6 +161,10 @@
       "zh-CN": {
         "text": "学园偶像秀",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "School Idol Show",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -121,6 +173,10 @@
     "translation": {
       "zh-CN": {
         "text": "学园偶像舞台 ＞ Quest Live、\n学园偶像秀 ＞ 乐曲任务的任意一种\n每收集15个★就能获得 SIsCa × 1000！！",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Collect 15 ★ in either School Idol Stage > Quest Live,\nor School Idol Show > Song Mission\nto GET SIsCa × 1000 each time!!",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -131,6 +187,10 @@
       "zh-CN": {
         "text": "获得奖品",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Prize Obtained",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -139,6 +199,10 @@
     "translation": {
       "zh-CN": {
         "text": "上限会随着Quest Live的追加而提高。",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "The limit will be raised in accordance with Quest Live additions.",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -149,6 +213,10 @@
       "zh-CN": {
         "text": "※可以获得SIsCa",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "※You can receive SIsCa",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -157,6 +225,10 @@
     "translation": {
       "zh-CN": {
         "text": "学结\n活动记录",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "School Idol Connect\nActivity Record",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -167,6 +239,10 @@
       "zh-CN": {
         "text": "自定义",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Custom",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -175,6 +251,10 @@
     "translation": {
       "zh-CN": {
         "text": "挑战",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Challenge",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -185,6 +265,10 @@
       "zh-CN": {
         "text": "领取",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Receive",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -194,6 +278,10 @@
       "zh-CN": {
         "text": "新手任务",
         "author": "ChocoLZS"
+      },
+      "en": {
+        "text": "Beginner Mission",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -202,6 +290,10 @@
     "translation": {
       "zh-CN": {
         "text": "主屏设置",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Home Settings",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -212,6 +304,10 @@
       "zh-CN": {
         "text": "壁纸自定义",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Wallpaper Custom",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -220,6 +316,10 @@
     "translation": {
       "zh-CN": {
         "text": "简单自定义",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Simple Custom",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -230,6 +330,10 @@
       "zh-CN": {
         "text": "详细自定义",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Detailed Custom",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -238,6 +342,10 @@
     "translation": {
       "zh-CN": {
         "text": "时钟自定义",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Clock Custom",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -248,6 +356,10 @@
       "zh-CN": {
         "text": "选择时钟",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Select Clock",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -256,6 +368,10 @@
     "translation": {
       "zh-CN": {
         "text": "在主屏显示自定义按钮",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Display custom button on home screen",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -266,6 +382,10 @@
       "zh-CN": {
         "text": "在主屏显示时钟",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Display clock on home screen",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -274,6 +394,10 @@
     "translation": {
       "zh-CN": {
         "text": "在主屏显示新手任务按钮",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Display beginner mission button on home screen",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -284,6 +408,10 @@
       "zh-CN": {
         "text": "配置棋子",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Placement Piece",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -292,6 +420,10 @@
     "translation": {
       "zh-CN": {
         "text": "成员等级",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Data",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -302,6 +434,10 @@
       "zh-CN": {
         "text": "其他",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Other",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -310,6 +446,10 @@
     "translation": {
       "zh-CN": {
         "text": "系统",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "System",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -320,6 +460,10 @@
       "zh-CN": {
         "text": "图像设置",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Graphics Settings",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -328,6 +472,10 @@
     "translation": {
       "zh-CN": {
         "text": "可以设置Live影像的分辨率。\n请根据设备规格和观看环境进行设置。",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "You can set the resolution of live videos.\nPlease adjust according to your device specifications and viewing environment.",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -338,6 +486,10 @@
       "zh-CN": {
         "text": "低画质",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Low Quality",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -346,6 +498,10 @@
     "translation": {
       "zh-CN": {
         "text": "普通画质",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Normal Quality",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -356,6 +512,10 @@
       "zh-CN": {
         "text": "高画质",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "High Quality",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -364,6 +524,10 @@
     "translation": {
       "zh-CN": {
         "text": "音量设置",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Sound Settings",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -374,6 +538,10 @@
       "zh-CN": {
         "text": "播放存档。\n可以吗？",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Archive will be played.\nIs this okay?",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -382,6 +550,10 @@
     "translation": {
       "zh-CN": {
         "text": "日期顺序",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Date Order",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -392,6 +564,10 @@
       "zh-CN": {
         "text": "With Star数量",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Number of With Stars",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -400,6 +576,10 @@
     "translation": {
       "zh-CN": {
         "text": "出演",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Appeared",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -410,6 +590,10 @@
       "zh-CN": {
         "text": "未出演",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Not Appeared",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -418,6 +602,10 @@
     "translation": {
       "zh-CN": {
         "text": "未指定",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Not Specified",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -428,6 +616,10 @@
       "zh-CN": {
         "text": "With×MEETS AFTER观看权",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "With×MEETS AFTER Viewing Rights",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -436,6 +628,10 @@
     "translation": {
       "zh-CN": {
         "text": "LIVE种类",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "LIVE Type",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -446,6 +642,10 @@
       "zh-CN": {
         "text": "存在",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Existence",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -454,6 +654,10 @@
     "translation": {
       "zh-CN": {
         "text": "无",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "None",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -464,6 +668,10 @@
       "zh-CN": {
         "text": "提示",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Hint",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -472,6 +680,10 @@
     "translation": {
       "zh-CN": {
         "text": "未持有礼品。\n可以从扭蛋等途径获得礼品。",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "You do not have any gifts.\nGifts can be obtained from gacha and other sources.",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -482,6 +694,10 @@
       "zh-CN": {
         "text": "获得With Star所需的\n礼品点数超过了最大值。\n是否继续发送？",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "The gift points required to obtain With Star\nexceed the maximum value.\nDo you want to send anyway?",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -490,6 +706,10 @@
     "translation": {
       "zh-CN": {
         "text": "该奖励已领取。",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "This prize has already been received.",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -500,6 +720,10 @@
       "zh-CN": {
         "text": "奖励获取",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Prize Collection",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -508,6 +732,10 @@
     "translation": {
       "zh-CN": {
         "text": "由于完成了任务，\n获得了奖励！",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "You have cleared the mission and\nobtained a prize!",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -518,6 +746,10 @@
       "zh-CN": {
         "text": "任务详情",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Quest Details",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -526,6 +758,10 @@
     "translation": {
       "zh-CN": {
         "text": "心心自动获取设定",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Heart Auto-Collection Settings",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -536,6 +772,10 @@
       "zh-CN": {
         "text": "当前设定值",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Current Setting Value",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -544,6 +784,10 @@
     "translation": {
       "zh-CN": {
         "text": "可以设定发动心心自动获取的数量。\n演出中，如果启用了AUTO的HEART功能，\n当画面上的心心数量超过设定数量时，\n将自动获取心心。",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "You can set the number at which heart auto-collection is activated.\nDuring live performances, when AUTO HEART is enabled,\nhearts will be automatically collected when the number of hearts on screen exceeds the set number.",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -554,6 +798,10 @@
       "zh-CN": {
         "text": "歌词视频设定",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Lyric Video Settings",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -562,6 +810,10 @@
     "translation": {
       "zh-CN": {
         "text": "可以设定演出时是否播放歌词视频。\n演出中无法更改歌词视频的播放设定。",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "You can set whether to play lyric videos during live performances.\nLyric video playback settings cannot be changed during live performances.",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -572,6 +824,10 @@
       "zh-CN": {
         "text": "图像设置",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Image Settings",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -580,6 +836,10 @@
     "translation": {
       "zh-CN": {
         "text": "通常：演出中将显示所有演出效果。\n轻量：演出中将限制显示部分演出效果。",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Normal: All effects are displayed during live performances.\nLightweight: Some effects displayed during live performances are limited.",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -590,6 +850,10 @@
       "zh-CN": {
         "text": "画面效果",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Graphics",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -598,6 +862,10 @@
     "translation": {
       "zh-CN": {
         "text": "轻量",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Lightweight",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -608,6 +876,10 @@
       "zh-CN": {
         "text": "已习得乐曲精通奖励",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Acquired Song Mastery Bonus",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -616,6 +888,10 @@
     "translation": {
       "zh-CN": {
         "text": "没有已习得的奖励技能。",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "There are no acquired bonus skills.",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -626,6 +902,10 @@
       "zh-CN": {
         "text": "奖励",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Bonus",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -634,6 +914,10 @@
     "translation": {
       "zh-CN": {
         "text": "精通Lv",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Mastery Lv",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -644,6 +928,10 @@
       "zh-CN": {
         "text": "习得状况",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Acquisition Status",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -652,6 +940,10 @@
     "translation": {
       "zh-CN": {
         "text": "C位成员",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Center Member",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -662,6 +954,10 @@
       "zh-CN": {
         "text": "歌词视频",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Lyric Video",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -670,6 +966,10 @@
     "translation": {
       "zh-CN": {
         "text": "乐曲精通Lv.达到特定Lv.时，\n乐曲的C位学园偶像可以\n习得奖励技能。\n\n\n如果习得了已经习得过的奖励技能，\n技能的Lv.会提升1级。",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "When song mastery Lv. reaches a specific level,\nthe center School Idol of the song\ncan acquire bonus skills.\n\n\nIf you acquire a bonus skill that has already been acquired,\nthe skill Lv. increases by 1.",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -680,6 +980,10 @@
       "zh-CN": {
         "text": "掌握熟练度Lv.",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Acquired Mastery Lv.",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -688,6 +992,10 @@
     "translation": {
       "zh-CN": {
         "text": "系列选择",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Series Selection",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -698,6 +1006,10 @@
       "zh-CN": {
         "text": "收集300个梦之碎片",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Collect 300 Dream Fragments",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -706,6 +1018,10 @@
     "translation": {
       "zh-CN": {
         "text": "收集300个梦之羽毛",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Collect 300 Dream Feathers",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -716,6 +1032,10 @@
       "zh-CN": {
         "text": "收集300个梦之法理",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Collect 300 Dream Principles",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -724,6 +1044,10 @@
     "translation": {
       "zh-CN": {
         "text": "将Grade提升至白银1",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Raise Grade to Silver 1",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -734,6 +1058,10 @@
       "zh-CN": {
         "text": "将{0}的粉丝等级提升至100",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Raise {0}'s fan level to 100",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -742,6 +1070,10 @@
     "translation": {
       "zh-CN": {
         "text": "演出大奖赛成绩",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Live Grand Prix Results",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -752,6 +1084,10 @@
       "zh-CN": {
         "text": "奖品",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Prize",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -760,6 +1096,10 @@
     "translation": {
       "zh-CN": {
         "text": "排行榜",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Ranking",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -770,6 +1110,10 @@
       "zh-CN": {
         "text": "前往选择",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "To Selection",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -778,6 +1122,10 @@
     "translation": {
       "zh-CN": {
         "text": "没有历史记录。",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "There is no history.",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -788,6 +1136,10 @@
       "zh-CN": {
         "text": "卡牌名称",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Card Name",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -796,6 +1148,10 @@
     "translation": {
       "zh-CN": {
         "text": "卡牌详情",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Card Details",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -806,6 +1162,10 @@
       "zh-CN": {
         "text": "全部",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "All",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -814,6 +1174,10 @@
     "translation": {
       "zh-CN": {
         "text": "已获得",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Obtained",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -824,6 +1188,10 @@
       "zh-CN": {
         "text": "未获得",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Not Obtained",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -832,6 +1200,10 @@
     "translation": {
       "zh-CN": {
         "text": "批量跳过",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Skip All Together",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -842,6 +1214,10 @@
       "zh-CN": {
         "text": "完成",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Complete",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -850,6 +1226,10 @@
     "translation": {
       "zh-CN": {
         "text": "舞台信息",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Stage Information",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -860,6 +1240,10 @@
       "zh-CN": {
         "text": "Fes×LIVE票券将在统计期间结束后，\n直接发放给访问Fes×LIVE大厅的用户。",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Fes×LIVE tickets will be distributed directly to users\nwho access the Fes×LIVE lobby after the aggregation period ends.",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -868,6 +1252,10 @@
     "translation": {
       "zh-CN": {
         "text": "SIDE编成",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "SIDE Formation",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -878,6 +1266,10 @@
       "zh-CN": {
         "text": "此卡片可以作为以下成员的SIDE STYLE\n进行编成。",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "This card can be formed as a SIDE STYLE \nfor the following members.",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -886,6 +1278,10 @@
     "translation": {
       "zh-CN": {
         "text": "选择",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Select",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -896,6 +1292,10 @@
       "zh-CN": {
         "text": "持有数量 ",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Owned ",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -904,6 +1304,10 @@
     "translation": {
       "zh-CN": {
         "text": "请选择要使用的选择票券。",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Please select the select ticket you want to use.",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -914,6 +1318,10 @@
       "zh-CN": {
         "text": "{0} 会员特典交换",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "{0} Membership Benefits Exchange",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -922,6 +1330,10 @@
     "translation": {
       "zh-CN": {
         "text": "普通道具交换",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Regular Item Exchange",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -932,6 +1344,10 @@
       "zh-CN": {
         "text": "培养道具交换",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Training Item Exchange",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -940,6 +1356,10 @@
     "translation": {
       "zh-CN": {
         "text": "商店",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Shop",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -950,6 +1370,10 @@
       "zh-CN": {
         "text": "没有符合条件的交换对象。",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "No applicable exchange items.",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -958,6 +1382,10 @@
     "translation": {
       "zh-CN": {
         "text": "解放Pt.转换确认",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Liberation Pt. Conversion Confirmation",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -968,6 +1396,10 @@
       "zh-CN": {
         "text": "是否将持有的超出解放上限的\n所有解放Pt.转换为对应稀有度的\n提尔？",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Convert all Liberation Pt. that exceed\nthe releasable amount to tiers based\non their rarity?",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -976,6 +1408,10 @@
     "translation": {
       "zh-CN": {
         "text": "持有的多余解放Pt.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Excess Liberation Pt. owned",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -986,6 +1422,10 @@
       "zh-CN": {
         "text": "转换",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Convert",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -994,6 +1434,10 @@
     "translation": {
       "zh-CN": {
         "text": "请逐一选择要排序的\n成员卡片",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Please select member cards\none by one to rearrange",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -1004,6 +1448,10 @@
       "zh-CN": {
         "text": "未找到对应的成员",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Target member not found",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -1012,6 +1460,10 @@
     "translation": {
       "zh-CN": {
         "text": "推荐编成",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Recommended Formation",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -1022,6 +1474,10 @@
       "zh-CN": {
         "text": "移除",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Remove",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -1030,6 +1486,10 @@
     "translation": {
       "zh-CN": {
         "text": "综合任务",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Comprehensive Mission",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -1040,6 +1500,10 @@
       "zh-CN": {
         "text": "综合",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Comprehensive",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -1048,6 +1512,10 @@
     "translation": {
       "zh-CN": {
         "text": "职业说明",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Class Description",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -1058,6 +1526,10 @@
       "zh-CN": {
         "text": "奖品详情",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Prize Details",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -1066,6 +1538,10 @@
     "translation": {
       "zh-CN": {
         "text": "无C位效果",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "No Center Effect",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -1076,6 +1552,10 @@
       "zh-CN": {
         "text": "总计呼吁值",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Total Appeal Value",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -1084,6 +1564,10 @@
     "translation": {
       "zh-CN": {
         "text": "暂停",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Pause",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -1094,6 +1578,10 @@
       "zh-CN": {
         "text": "前往选曲界面",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "To Song Selection",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -1102,6 +1590,10 @@
     "translation": {
       "zh-CN": {
         "text": "从头开始",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "From Beginning",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -1112,6 +1604,10 @@
       "zh-CN": {
         "text": "继续",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Resume",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -1120,6 +1616,10 @@
     "translation": {
       "zh-CN": {
         "text": "挑战",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Challenge",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -1130,6 +1630,10 @@
       "zh-CN": {
         "text": "设置",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Settings",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -1138,6 +1642,10 @@
     "translation": {
       "zh-CN": {
         "text": "卡牌确认",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Card Details",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -1148,6 +1656,10 @@
       "zh-CN": {
         "text": "剩余次数",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Remaining Attempts",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -1156,6 +1668,10 @@
     "translation": {
       "zh-CN": {
         "text": "退出",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Retire",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -1166,6 +1682,10 @@
       "zh-CN": {
         "text": "返回Live",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Return to Live",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -1174,6 +1694,10 @@
     "translation": {
       "zh-CN": {
         "text": "点击可确认卡牌详情",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Tap to view card details",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -1184,6 +1708,10 @@
       "zh-CN": {
         "text": "游玩统计",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Play Report",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -1192,6 +1720,10 @@
     "translation": {
       "zh-CN": {
         "text": "获得道具",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Items Obtained",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -1202,6 +1734,10 @@
       "zh-CN": {
         "text": "没有课题曲",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "No assignment\nsongs",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -1210,6 +1746,10 @@
     "translation": {
       "zh-CN": {
         "text": "隐藏未掌握的乐曲",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Hide unacquired songs",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -1220,6 +1760,10 @@
       "zh-CN": {
         "text": "是否将视频下载到设备？",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Download movie to device?",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -1228,6 +1772,10 @@
     "translation": {
       "zh-CN": {
         "text": "执行缓存删除后，已下载的\n视频将从设备中删除。",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Executing cache deletion will remove downloaded\nmovies from your device.",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -1238,6 +1786,10 @@
       "zh-CN": {
         "text": "放弃",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Give Up",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -1246,6 +1798,10 @@
     "translation": {
       "zh-CN": {
         "text": "是否放弃挑战？",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Give up the challenge?",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -1256,6 +1812,10 @@
       "zh-CN": {
         "text": "※如果有已达成的任务，可以获得奖励。\n※也可以从页脚暂时中断。",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "※If there are completed missions, you can obtain rewards.\n※You can also temporarily suspend from the footer.",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -1264,6 +1824,10 @@
     "translation": {
       "zh-CN": {
         "text": "消费行动Pt.设置",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Action Pt. Consumption Setting",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -1274,6 +1838,10 @@
       "zh-CN": {
         "text": "编成奖励",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Formation Bonus",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -1282,6 +1850,10 @@
     "translation": {
       "zh-CN": {
         "text": "※获得的Live Pt.与消费行动Pt.成正比。",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "※Live Pt. obtained is proportional to Action Pt. consumed.",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -1292,6 +1864,10 @@
       "zh-CN": {
         "text": "获得的Live Pt.",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Live Pt. Obtained",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -1300,6 +1876,10 @@
     "translation": {
       "zh-CN": {
         "text": "主要Live的Live Pt.",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Main Live's Live Pt.",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -1310,6 +1890,10 @@
       "zh-CN": {
         "text": "剩余行动Pt.",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Remaining Action Pt.",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -1318,6 +1902,10 @@
     "translation": {
       "zh-CN": {
         "text": "任务结果",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Quest Results",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -1328,6 +1916,10 @@
       "zh-CN": {
         "text": "仅可选择\n特定乐曲",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Only specific songs\ncan be selected",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -1336,6 +1928,10 @@
     "translation": {
       "zh-CN": {
         "text": "可选择乐曲一览",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Selectable Song List",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -1346,6 +1942,10 @@
       "zh-CN": {
         "text": "成员日志",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Member Log",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -1354,6 +1954,10 @@
     "translation": {
       "zh-CN": {
         "text": "输入评论",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Enter comment",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -1364,6 +1968,10 @@
       "zh-CN": {
         "text": "※小说类型故事为横屏固定显示",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "※Novel-type stories are locked to landscape orientation",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -1372,6 +1980,10 @@
     "translation": {
       "zh-CN": {
         "text": "近期开放\n预定",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Opening Soon",
         "author": "claude-sonnet-4-20250514"
       }
     }
@@ -1382,6 +1994,10 @@
       "zh-CN": {
         "text": "C位技能等级上限",
         "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Center Skill Lv Cap",
+        "author": "claude-sonnet-4-20250514"
       }
     }
   },
@@ -1390,6 +2006,10 @@
     "translation": {
       "zh-CN": {
         "text": "技能AP",
+        "author": "claude-sonnet-4-20250514"
+      },
+      "en": {
+        "text": "Skill AP",
         "author": "claude-sonnet-4-20250514"
       }
     }

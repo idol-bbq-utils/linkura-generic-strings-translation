@@ -1,6 +1,7 @@
 from pathlib import Path
 from ..model.localization import I18nLanguage
 import src.translate.prompt.zh_cn as zh_cn
+import src.translate.prompt.en as en
 from src.translate.prompt import get_reference_prompt
 import json
 from typing import List, Iterator
@@ -8,7 +9,8 @@ import anthropic
 
 
 prompt_module_map = {
-    I18nLanguage.ZH_CN: zh_cn
+    I18nLanguage.ZH_CN: zh_cn,
+    I18nLanguage.EN: en
 }
 
 def translate_file(api_client: anthropic.Anthropic, file: Path, target_language: I18nLanguage, chunk_size: int = 48, limit: int = None) -> None:
