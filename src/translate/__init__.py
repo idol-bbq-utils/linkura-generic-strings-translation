@@ -92,7 +92,7 @@ Example format: ["translated text 1", "translated text 2", ...]
         # print("=" * 50)
         
         # Call translation API
-        model_id = "claude-sonnet-4-20250514"
+        model_id = "claude-sonnet-4-5-20250929"
         message = api_client.messages.create(
             model=model_id,
             max_tokens=4000,
@@ -101,6 +101,9 @@ Example format: ["translated text 1", "translated text 2", ...]
             ]
         )
         response = message.content[0].text
+        # remove markdown code block if exists
+        if response.startswith("```") and response.endswith("```"):
+            response = "\n".join(response.split("\n")[1:-1])
         
         try:
             # Parse JSON response to get translated texts array
