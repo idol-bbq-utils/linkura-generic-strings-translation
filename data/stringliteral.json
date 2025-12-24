@@ -20447,5 +20447,655 @@
         "author": "claude-sonnet-4-20250514"
       }
     }
+  },
+  {
+    "raw": "<color=#FF4D56><size=34>※リタイアした場合でもLIVE挑戦回数にカウントします。</size></color>\n本当にリタイアしますか？",
+    "translation": {
+      "zh-CN": {
+        "text": "<color=#FF4D56><size=34>※即使放弃也会计入LIVE挑战次数。</size></color>\n真的要放弃吗？",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "<color=#FF4D56><size=34>※Even if you retire, it will count toward your LIVE attempt count.</size></color>\nAre you sure you want to retire?",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "<color=#FF4D56><size=34>※リトライした場合でもLIVE挑戦回数にカウントします。</size></color>\n本当にリトライしますか？",
+    "translation": {
+      "zh-CN": {
+        "text": "<color=#FF4D56><size=34>※即使重试也会计入LIVE挑战次数。</size></color>\n真的要重试吗？",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "<color=#FF4D56><size=34>※Even if you retry, it will count toward your LIVE attempt count.</size></color>\nAre you sure you want to retry?",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "<color=#FF4D56>受取済み</color>",
+    "translation": {
+      "zh-CN": {
+        "text": "<color=#FF4D56>已领取</color>",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "<color=#FF4D56>Received</color>",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "<size=100%><sprite=0></size>をあと<color=#FD5B91><size=120%>{0}Pt</size></color>入手で確定ドロップ！",
+    "translation": {
+      "zh-CN": {
+        "text": "再获得<color=#FD5B91><size=120%>{0}Pt</size></color><size=100%><sprite=0></size>即可确定掉落！",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Get <color=#FD5B91><size=120%>{0}Pt</size></color> more <size=100%><sprite=0></size> for guaranteed drop!",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "<size=100%><sprite=1></size>をあと<color=#FD5B91><size=120%>{0}</size>回</color>入手するとスペシャルプライズGET",
+    "translation": {
+      "zh-CN": {
+        "text": "再获得<color=#FD5B91><size=120%>{0}</size>次</color><size=100%><sprite=1></size>即可获得特别奖励",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Get <size=100%><sprite=1></size> <color=#FD5B91><size=120%>{0}</size> more times</color> to GET Special Prize",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "BAD以上",
+    "translation": {
+      "zh-CN": {
+        "text": "BAD以上",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "BAD or higher",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "GOOD以上",
+    "translation": {
+      "zh-CN": {
+        "text": "GOOD以上",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "GOOD or higher",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "GREAT以上",
+    "translation": {
+      "zh-CN": {
+        "text": "GREAT以上",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "GREAT or higher",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "GREAT以下",
+    "translation": {
+      "zh-CN": {
+        "text": "GREAT以下",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "GREAT or lower",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "MISS以上",
+    "translation": {
+      "zh-CN": {
+        "text": "MISS以上",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "MISS or higher",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "OKをタップすると縦画面に切り替わります",
+    "translation": {
+      "zh-CN": {
+        "text": "点击OK切换到竖屏",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Tap OK to switch to portrait orientation",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "PERFECT+以上",
+    "translation": {
+      "zh-CN": {
+        "text": "PERFECT+以上",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "PERFECT+ or higher",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "PERFECT以上",
+    "translation": {
+      "zh-CN": {
+        "text": "PERFECT以上",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "PERFECT or higher",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "PERFECT以下",
+    "translation": {
+      "zh-CN": {
+        "text": "PERFECT以下",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "PERFECT or lower",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "{0}<size=24>位</size>",
+    "translation": {
+      "zh-CN": {
+        "text": "{0}<size=24>位</size>",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "{0}<size=24>th place</size>",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "{0}〜{1}<size=24>位</size>",
+    "translation": {
+      "zh-CN": {
+        "text": "{0}〜{1}<size=24>位</size>",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "{0}~{1}<size=24>th place</size>",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "{0}を解放後、\n視聴可能",
+    "translation": {
+      "zh-CN": {
+        "text": "解锁{0}后，\n可以观看",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Available after unlocking\n{0}",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "{0}回目以降",
+    "translation": {
+      "zh-CN": {
+        "text": "{0}次以后",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "From {0}th attempt onward",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "すべて表示",
+    "translation": {
+      "zh-CN": {
+        "text": "显示全部",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Show All",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "カード情報",
+    "translation": {
+      "zh-CN": {
+        "text": "卡牌信息",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Card Info",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "サイズ変更",
+    "translation": {
+      "zh-CN": {
+        "text": "更改大小",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Change Size",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "スタイルLv.",
+    "translation": {
+      "zh-CN": {
+        "text": "风格Lv.",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Style Lv.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "テクニカルスコア",
+    "translation": {
+      "zh-CN": {
+        "text": "技术得分",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Technical Score",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "フォロワー",
+    "translation": {
+      "zh-CN": {
+        "text": "关注者",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Followers",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "フォロワーがいません。",
+    "translation": {
+      "zh-CN": {
+        "text": "没有关注者。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "No followers.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "フォロー",
+    "translation": {
+      "zh-CN": {
+        "text": "关注",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Follow",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "フォローしてるユーザーがいません。",
+    "translation": {
+      "zh-CN": {
+        "text": "没有关注的用户。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Not following any users.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "フォローしました",
+    "translation": {
+      "zh-CN": {
+        "text": "已关注",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Now following",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "フォローを解除しました",
+    "translation": {
+      "zh-CN": {
+        "text": "已取消关注",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Unfollowed",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "フォロー数が上限に達しています",
+    "translation": {
+      "zh-CN": {
+        "text": "关注数已达上限",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Follow limit reached",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "フォロー解除",
+    "translation": {
+      "zh-CN": {
+        "text": "取消关注",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Unfollow",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "フレンド",
+    "translation": {
+      "zh-CN": {
+        "text": "好友",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Friend",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "フレンドカード設定",
+    "translation": {
+      "zh-CN": {
+        "text": "好友卡片设置",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Friend Card Settings",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "プライズ獲得",
+    "translation": {
+      "zh-CN": {
+        "text": "奖品获得",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Prize Obtained",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "プロフィール画面に移動します。\nよろしいでしょうか？",
+    "translation": {
+      "zh-CN": {
+        "text": "将移动到个人资料画面。\n可以吗？",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Moving to profile screen.\nIs this OK?",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "ライブグランプリのLIVEに挑戦します。\nよろしいですか？",
+    "translation": {
+      "zh-CN": {
+        "text": "将挑战Live Grand Prix的LIVE。\n可以吗？",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Challenge the Live Grand Prix LIVE.\nIs this OK?",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "今週のびっくりボックス獲得: {0}/{1}",
+    "translation": {
+      "zh-CN": {
+        "text": "本周惊喜盒获得：{0}/{1}",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Surprise Boxes obtained this week: {0}/{1}",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "今週のサプライズボックス獲得数：{0}/{1}",
+    "translation": {
+      "zh-CN": {
+        "text": "本周惊喜盒获得数：{0}/{1}",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Surprise Boxes obtained this week: {0}/{1}",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "以下のプライズを受け取りました。\n※アイテムは直接付与されます。",
+    "translation": {
+      "zh-CN": {
+        "text": "获得了以下奖品。\n※道具将直接发放。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "You received the following prizes.\n*Items will be granted directly.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "受取",
+    "translation": {
+      "zh-CN": {
+        "text": "领取",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Receive",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "更新頻度が高すぎます。\nしばらくしてから再度お試しください",
+    "translation": {
+      "zh-CN": {
+        "text": "更新频率过高。\n请稍后再试",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Update frequency is too high.\nPlease wait a moment and try again",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "最終ログイン",
+    "translation": {
+      "zh-CN": {
+        "text": "最后登录",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Last Login",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "最終ログイン；{0}日前",
+    "translation": {
+      "zh-CN": {
+        "text": "最后登录：{0}天前",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Last Login: {0} days ago",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "最終ログイン；{0}時間前",
+    "translation": {
+      "zh-CN": {
+        "text": "最后登录：{0}小时前",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Last Login: {0} hours ago",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "本日のびっくりボックス獲得: {0}/{1}",
+    "translation": {
+      "zh-CN": {
+        "text": "今日惊喜盒获得：{0}/{1}",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Surprise Boxes obtained today: {0}/{1}",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "本日のサプライズボックス獲得数：{0}/{1}",
+    "translation": {
+      "zh-CN": {
+        "text": "今日惊喜盒获得数：{0}/{1}",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Surprise Boxes obtained today: {0}/{1}",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "獲得プライズ一覧",
+    "translation": {
+      "zh-CN": {
+        "text": "获得奖品一览",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Obtained Prize List",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "相手のフォロワー数が上限に達しています",
+    "translation": {
+      "zh-CN": {
+        "text": "对方的关注者数已达上限",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "The other user's follower limit has been reached",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "選択できるフレンドカードがありません.",
+    "translation": {
+      "zh-CN": {
+        "text": "没有可选择的好友卡牌。",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "There are no friend cards available to select.",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
+  },
+  {
+    "raw": "開催期間: {0} ～ {1}",
+    "translation": {
+      "zh-CN": {
+        "text": "举办期间: {0} ～ {1}",
+        "author": "claude-sonnet-4-5-20250929"
+      },
+      "en": {
+        "text": "Event Period: {0} ~ {1}",
+        "author": "claude-sonnet-4-5-20250929"
+      }
+    }
   }
 ]

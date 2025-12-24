@@ -3,9 +3,9 @@ from ..model.localization import I18nLanguage
 import src.translate.prompt.zh_cn as zh_cn
 import src.translate.prompt.en as en
 from src.translate.prompt import get_reference_prompt
+from src.translate.translator import LLMTranslator
 import json
 from typing import List, Iterator
-import anthropic
 
 
 prompt_module_map = {
@@ -13,12 +13,12 @@ prompt_module_map = {
     I18nLanguage.EN: en
 }
 
-def translate_file(api_client: anthropic.Anthropic, file: Path, target_language: I18nLanguage, chunk_size: int = 48, limit: int = None) -> None:
+def translate_file(translator: LLMTranslator, file: Path, target_language: I18nLanguage, chunk_size: int = 24, limit: int = None) -> None:
     """
     Translate a file containing text entries to the specified language with chunked processing.
     
     Args:
-        api_client: Anthropic API client
+        translator: LLM translator instance
         file: Path to the input file containing text entries
         target_language: Target language for translation
         chunk_size: Number of texts to process in each chunk (default: 24)
@@ -60,7 +60,7 @@ def translate_file(api_client: anthropic.Anthropic, file: Path, target_language:
     
     # Get base prompt and reference examples
     base_prompt = prompt_module.prompt
-    translate_reference = get_reference_prompt(file, target_language, 40)
+    translate_reference = get_reference_prompt(file, target_language, 24)
 
     
     # Process texts in chunks
@@ -76,13 +76,19 @@ def translate_file(api_client: anthropic.Anthropic, file: Path, target_language:
         full_prompt = f"""{base_prompt}
 
 ## Translation Reference Examples:
+You must refer to these examples for translation style and tone.
+
 {translate_reference}
 
 ## Original Texts to Translate:
 {texts_array_str}
 
 ## Output Format:
-Return ONLY a JSON array of translated texts in the same order as the original array. Do not include any explanatory text. Do not return markdown code format, just json string
+Return ONLY a JSON array of translated texts in the same order as the original array.
+Do not include any explanatory text!!!
+Do not return markdown code format!!!
+Do not return markdown code like ```json...```
+just return json string
 Example format: ["translated text 1", "translated text 2", ...]
 """
         
@@ -91,16 +97,9 @@ Example format: ["translated text 1", "translated text 2", ...]
         # print(full_prompt)
         # print("=" * 50)
         
-        # Call translation API
-        model_id = "claude-sonnet-4-5-20250929"
-        message = api_client.messages.create(
-            model=model_id,
-            max_tokens=4000,
-            messages=[
-                {"role": "user", "content": full_prompt}
-            ]
-        )
-        response = message.content[0].text
+        # Call translation API using the translator
+        response = translator.translate(full_prompt, target_lang=target_language.value)
+        
         # remove markdown code block if exists
         if response.startswith("```") and response.endswith("```"):
             response = "\n".join(response.split("\n")[1:-1])
@@ -126,7 +125,7 @@ Example format: ["translated text 1", "translated text 2", ...]
                     
                     # Fill in the translation
                     item["translation"][locale_key]["text"] = translated_texts[i]
-                    item["translation"][locale_key]["author"] = model_id
+                    item["translation"][locale_key]["author"] = translator.model_id
             
             # Write updated data back to file after each chunk
             try:
@@ -140,7 +139,7 @@ Example format: ["translated text 1", "translated text 2", ...]
             
         except json.JSONDecodeError as e:
             print(f"Error parsing JSON response for chunk {chunk_idx + 1}: {e}")
-            print(f"Response content: {response}")
+            print(f"Response content: \n{response}")
             continue
         except Exception as e:
             print(f"Error processing chunk {chunk_idx + 1}: {e}")
